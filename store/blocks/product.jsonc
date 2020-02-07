@@ -31,8 +31,8 @@
   },
   "product-price": {
     "props": {
-      "showSavings": true,
-      "showListPrice": true
+      "showSavings": true
+      // "showListPrice": true
     }
   }
 }
